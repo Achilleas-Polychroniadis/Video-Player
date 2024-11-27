@@ -1,0 +1,9 @@
+.slider .track {
+    /*-fx-padding: 10;*/
+    -fx-control-inner-background: red;
+}
+
+.slider .thumb {
+    /*-fx-padding: 10;*/
+    -fx-base: red;
+}
